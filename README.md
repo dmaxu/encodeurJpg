@@ -1,3 +1,5 @@
+Pour exécuter make puis ./ppm2jpg [--outfile=sortie.jpg] [--sample=4x2,1x1,1x1] entree.ppm
+
 # Notre encodeur JPEG à nous
 
 Bienvenue sur la page d'accueil de _votre_ projet JPEG, un grand espace de liberté, sous le regard bienveillant de vos enseignants préférés.
